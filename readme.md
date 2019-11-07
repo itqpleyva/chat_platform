@@ -15,7 +15,7 @@ It uses the following technologies as a base:
 in package.json:
 <ul>
     <li>"laravel-echo": "^1.6.1",</li>
-    <li> "moment": "^2.24.0",</li>
+    <li>"moment": "^2.24.0",</li>
     <li>"pusher-js": "^5.0.2"</li>
     <li>"axios": "^0.19",</li>
     <li>"bootstrap": "^4.0.0",</li>
