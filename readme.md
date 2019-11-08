@@ -10,6 +10,15 @@
     <li>Message history display settings and the time the message was received</li>
 </ul>
 
+to install:
+  1-composer install
+  2-npm install
+ 
+after installed all npm and composer dependencies, run:
+
+1-php artisan serve //to run the project
+2-php artisan websockets:serve //to run the websockets serve
+
 It uses the following technologies as a base:
 
 in package.json:
