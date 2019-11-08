@@ -11,13 +11,15 @@
 </ul>
 
 to install:
-  1-composer install
-  2-npm install
- 
+<ul>
+  <li>1-composer install</li>
+ <li>2-npm install</li>
+</ul> 
 after installed all npm and composer dependencies, run:
-
-1-php artisan serve //to run the project
-2-php artisan websockets:serve //to run the websockets serve
+<ul>
+  <li>1-php artisan serve //to run the project</li>
+ <li>2-php artisan websockets:serve //to run the websockets serve</li>
+</ul> 
 
 It uses the following technologies as a base:
 
