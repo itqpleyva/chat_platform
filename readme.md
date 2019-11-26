@@ -1,6 +1,6 @@
 <h1>TellMe is a Chat platform that allows direct and real-time communication of users logged into the system</h1>
 <img src="chat.png">
-<h2>It has as fundamental functionalities</h2>
+<h2>It has as fundamental functionalities:</h2>
 <ul>
     <li>User logging on the platform</li>
     <li>Sending messages to connected users</li>
